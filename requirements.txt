@@ -10,8 +10,8 @@ huggingface-hub==0.16.4
 Markdown==3.4.4
 pandas==2.0.3
 plotly-express==0.4.1
-pytorch
 tokenizers==0.13.3
+torch
 transformers==4.32.0
 Werkzeug==2.2.3
 
