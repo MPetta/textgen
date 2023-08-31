@@ -13,6 +13,7 @@ dash-table==5.0.0
 filelock==3.12.2
 Flask==2.2.5
 flatbuffers==23.5.26
+flax
 fsspec==2023.6.0
 gast==0.4.0
 grpcio==1.57.0
@@ -52,6 +53,7 @@ safetensors==0.3.3
 six==1.16.0
 sympy==1.12
 tenacity==8.2.3
+tensorflow==2.13
 termcolor==2.3.0
 tokenizers==0.13.3
 tqdm==4.66.1
