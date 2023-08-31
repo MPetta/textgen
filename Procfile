@@ -1,1 +1,1 @@
-web: gunicorn textgen-app.wsgi
+web: gunicorn app:server
