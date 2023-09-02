@@ -4,4 +4,5 @@ pandas
 transformers
 plotly
 nltk
-torch --extra-index-url https://download.pytorch.org/whl/cpu
+i- https://download.pytorch.org/whl/cpu
+torch
