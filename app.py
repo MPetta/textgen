@@ -72,7 +72,7 @@ def textareas():
 
 #instantiate dash
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-#server = app.server
+server = app.server
 
 #create layout
 app.layout = html.Div([dbc.Container([
