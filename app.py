@@ -6,7 +6,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 import plotly.graph_objects as go
 import nltk
 from nltk.sentiment import SentimentIntensityAnalyzer
-nltk.download('vader_lexicon')
+#nltk.download('vader_lexicon')
 from io import StringIO
 
 # set up for tokeniezer and pretrained language model
