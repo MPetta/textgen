@@ -69,7 +69,6 @@ This hypothesis testing process requires users to submit multiple prompts to gen
 categories = ['compound','positive', 'neutral', 'negative']
 starter = [0, 0, 0, 0]
 
-
 fig = go.Figure(
     data=[
         go.Scatterpolar(r=starter, theta=categories, fill='toself', name='Machine'),
