@@ -115,7 +115,6 @@ app.layout = html.Div([dbc.Container([
         , html.Br()
         , html.Br()
         , html.H3("Sentiment Analysis")
-        # , html.H4("This is all just to display a framework for generative text sentiment analysis. Some tuning may still be needed.")
         , html.Div(id='my-sentiment-output')
         , dcc.Graph(id='radar-plot',figure=fig)
         , dcc.Store(id='generated-data')
