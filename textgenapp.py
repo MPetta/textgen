@@ -213,7 +213,6 @@ def update_output_div(gen, cl, input_value):
     # output options
     output_one = html.P(gen_text)
 
-
     return output_one, generated_data
 
 @app.callback(
